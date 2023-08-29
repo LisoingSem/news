@@ -1,0 +1,155 @@
+@media screen and (min-width: 1025px){
+      /* header style  */
+      header{
+            height: 130px;
+      }
+      header .header-brand{
+            width: 110px !important;
+            object-fit: cover;
+      }
+      header .header-ads{
+            height: 100%;
+      }
+
+
+      /* navbar style */
+      nav{
+            padding: 5px 0;
+      }
+      nav span i{
+            color: white;
+      }
+      nav .navbar-brand{
+            margin-left: 50px;
+      }
+      nav form{
+            margin-right: 50px;
+      }
+
+      .biggest-features-news img{
+            height: 400px;
+            object-fit: cover;
+      }
+      .sub-features-news{
+            margin-top: 5px;
+      }
+      .sub-features-news .card-body{
+            padding: 8px;
+      }
+      .sub-features-news .card-title{
+            font-size: 17px;
+            overflow: hidden;
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+                        line-clamp: 3;
+            -webkit-box-orient: vertical;
+      }
+      .sub-features-news img{
+            height: 150px;
+            object-fit: cover;
+      }
+      .news-popular .sub-popular{
+            height: 150px;
+            overflow: hidden;
+      }
+      .news-popular .sub-popular img{
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+      }
+
+      .news-popular .sub-popular .card-title{
+            font-size: 17px;
+            overflow: hidden;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+                        line-clamp: 2;
+            -webkit-box-orient: vertical;
+      }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      /* body style  */
+      /* .news-body{
+            padding: 0 5px 5px 5px;
+            box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
+      }
+      .body-features-big{
+            margin-top: 5px;
+            width: 100%;
+            height: 440px;
+            background-color: antiquewhite;     
+            overflow: hidden;
+            padding-right: 5px;
+      }
+      .body-features-big img{
+            width: 100%;
+            height: 100%;
+      }
+      .body-ads{
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+            align-items: center;
+      }
+      .body-ads img{
+            width: 100%;
+            overflow: hidden;
+            margin-top: 5px;
+      }
+      .news-body .col-xl-7{
+            padding-right: 5px;
+      }
+
+      .features .col-md-4{
+            padding: 0;
+            overflow: hidden;
+      }
+      .features .col-md-4 img{
+            width: 100%;
+            height: 100%;
+      }
+      .features .row .col-md-4 .description p{
+            font-size: 15px;
+            overflow: hidden;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+                        line-clamp: 2;
+            -webkit-box-orient: vertical;
+      } */
+      
+      
+}
