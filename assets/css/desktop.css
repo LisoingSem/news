@@ -1,11 +1,11 @@
 @media screen and (min-width: 1025px){
       /* header style  */
-      header{
+      div{
             display: flex;
             justify-content: space-between;
             align-items: center;
       }
-      header .header-ads img{
+      div .header-ads img{
             height: 150px;
             object-fit: cover;
       }
