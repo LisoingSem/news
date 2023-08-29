@@ -1,14 +1,13 @@
 @media screen and (min-width: 1025px){
       /* header style  */
       header{
-            height: 130px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
       }
-      header .header-brand{
-            width: 110px !important;
+      header .header-ads img{
+            height: 150px;
             object-fit: cover;
-      }
-      header .header-ads{
-            height: 100%;
       }
 
 
