@@ -6,12 +6,12 @@
 
 
 /* header style  */
-div .container .row{
+.header .container .row{
       display: flex;
       justify-content: space-between;
       align-items: center;
 }
-div .header-ads{
+.header .header-ads{
       object-fit: cover;
       width: 100%;
 }
